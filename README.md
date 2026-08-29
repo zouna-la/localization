@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="README.md"><b>English</b></a> &nbsp;|&nbsp;
+  <a href="README_zh.md">简体中文</a> &nbsp;|&nbsp;
+  <a href="README_ja.md">日本語</a> &nbsp;|&nbsp;
+  <a href="README_ko.md">한국어</a>
+</div>
+
+<br>
+
 # 🌍 ZounaLa (走哪啦) · Community Localization Project
 
 > **Help make ZounaLa feel truly native in your language & earn a Free Ultimate Lifetime Membership!** 🎁
