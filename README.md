@@ -28,14 +28,19 @@ While automated tools provide an initial baseline, native speakers understand th
 
 Every quality contribution makes a real difference! To express our gratitude:
 
-✨ **Any contributor whose Pull Request or localization improvements are merged will receive a Free ZounaLa Ultimate Lifetime Membership activation code (永久终身会员).**
+✨ **Any contributor whose Pull Request (or well-documented translation improvement) is reviewed and approved will receive a Free ZounaLa Ultimate Lifetime Membership activation code (永久终身会员, $24.99+ value).**
 
-### 🔑 How to Claim Your Reward:
-1. Open the **ZounaLa** app on your iPhone.
-2. Go to **Settings (设置)** ➔ **Ultimate Membership (Ultimate 会员激活)**.
-3. Tap **Your Account ID (账户 ID)** to copy your unique 8-character device seed.
-4. Include your **Account ID** in your Pull Request description or Issue.
-5. Once your PR is approved and merged, we will reply with your personalized Ultimate Lifetime activation code!
+### 🔑 How to Receive Your Activation Code:
+1. **Find Your Account ID**:
+   - Open the **ZounaLa** app on your iPhone.
+   - Go to **Settings (设置)** ➔ **Ultimate Membership (Ultimate 会员激活)**.
+   - Tap **Your Account ID** (the 8-character code shown on screen, e.g. `886333C5`) to copy it.
+2. **Submit with Your PR / Commit**:
+   - When creating your Pull Request, include the following in your **PR description** (or commit message):
+     - **Your 8-character Account ID**: (e.g. `Account ID: 886333C5`)
+     - **Your Email Address**: (e.g. `Email: yourname@example.com`)
+3. **Receive Your Code via Email**:
+   - Once our team reviews and approves your submission, we will generate your personalized Ultimate Lifetime activation code and send it directly to your provided email address!
 
 ---
 
@@ -66,7 +71,7 @@ The core localization file in this repository is:
 If you do not use Git/GitHub PRs:
 1. Open a new [GitHub Issue](https://github.com/zouna-la/localization/issues).
 2. Clearly mention the original text (or English/Chinese key) and your suggested translation in your language.
-3. Include your ZounaLa **Account ID** so we can send your Ultimate Lifetime reward!
+3. Include your ZounaLa **Account ID** and **Email address** so we can email your Ultimate Lifetime reward!
 
 ---
 
