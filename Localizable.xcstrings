@@ -325,6 +325,7 @@
       }
     },
     "%@ 也回戳了你": {
+      "extractionState": "manual",
       "localizations": {
         "en": {
           "stringUnit": {
@@ -335,13 +336,13 @@
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ さんもつついて返しました"
+            "value": "%@さんもあなたをつつき返しました"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ 님이 답장을 콕 찔러주었습니다"
+            "value": "%@님도 회원님을 맞찔렀습니다"
           }
         }
       }
@@ -2265,23 +2266,24 @@
       }
     },
     "👈 回戳一下": {
+      "extractionState": "manual",
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "👈 Poke back"
+            "value": "👈 Poke Back"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "👈 つつ返す"
+            "value": "👈 つつき返す"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "👈 답장 콕 찔러주기"
+            "value": "👈 맞찌르기"
           }
         }
       }
@@ -6105,6 +6107,7 @@
       }
     },
     "你已回戳了 %@": {
+      "extractionState": "manual",
       "localizations": {
         "en": {
           "stringUnit": {
@@ -6115,13 +6118,13 @@
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ さんをつつき返しました"
+            "value": "%@さんをつつき返しました"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ 님을 콕 찔렀습니다"
+            "value": "%@님을 맞찔렀습니다"
           }
         }
       }
@@ -17651,23 +17654,24 @@
       }
     },
     "电量/能量": {
+      "extractionState": "manual",
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Battery / Energy"
+            "value": "Energy Level"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "バッテリー / エネルギー"
+            "value": "バッテリー/エネルギー"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "배터리 / 에너지"
+            "value": "배터리/에너지"
           }
         }
       }
@@ -23450,6 +23454,794 @@
           "stringUnit": {
             "state": "translated",
             "value": "1. 본 앱은 ‘있는 그대로’(As Is) 제공되며, 명시적이든 묵시적이든 어떠한 보증도 제공하지 않습니다.\n2. 본 앱의 데이터는 주로 사용자의 로컬 기기에 저장되며 클라우드 동기화는 Apple 공식 iCloud 서비스에 의존합니다. 기기 분실, 파손, 시스템 초기화, 수동 앱 삭제, Apple ID 이상 또는 실수로 인한 데이터 삭제 등 앱 자체의 결함이 아닌 원인으로 발생한 데이터 손실에 대해 당사는 복구 또는 배상 책임을 지지 않습니다. ‘데이터 내보내기’ 기능을 통해 정기적으로 중요 자료를 백업해 두시는 것을 권장합니다.\n3. 관련 법률이 허용하는 최대 범위 내에서, 개발자는 본 앱의 사용 또는 사용 불가로 인해 발생하는 어떠한 직·간접적 또는 부수적 손해에 대해서도 책임을 지지 않습니다."
+          }
+        }
+      }
+    },
+    "我在这": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I'm Here"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ここにいるよ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "나 여기 있어"
+          }
+        }
+      }
+    },
+    "用魔法": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic Reply"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "魔法返信"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 매직"
+          }
+        }
+      }
+    },
+    "报平安": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Safe Arrival"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無事到着"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "안전 도착"
+          }
+        }
+      }
+    },
+    "同程共享": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live Trip"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移動共有"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동행 공유"
+          }
+        }
+      }
+    },
+    "戳一戳": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nudge"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "つつく"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "콕 찌르기"
+          }
+        }
+      }
+    },
+    "接我一下": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick Me Up"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "迎えに来て"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "데리러 와"
+          }
+        }
+      }
+    },
+    "状态签": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status Tag"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステータス"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "상태 태그"
+          }
+        }
+      }
+    },
+    "给ta留言...": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave a message..."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メッセージを残す..."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메시지를 남겨보세요..."
+          }
+        }
+      }
+    },
+    "输入新消息...": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type a message..."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新しいメッセージを入力..."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "새 메시지 입력..."
+          }
+        }
+      }
+    },
+    "按住说话": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hold to Talk"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "長押しして話す"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "누른 채로 말하기"
+          }
+        }
+      }
+    },
+    "删除此条记录": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete this record"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この記録を削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 기록 삭제"
+          }
+        }
+      }
+    },
+    "确认删除": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm Delete"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除の確認"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "삭제 확인"
+          }
+        }
+      }
+    },
+    "今天": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오늘"
+          }
+        }
+      }
+    },
+    "上午": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AM"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "午前"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오전"
+          }
+        }
+      }
+    },
+    "下午": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PM"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "午後"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오후"
+          }
+        }
+      }
+    },
+    "戳了你一下": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poked you"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "あなたをつつきました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "콕 찔렀어요"
+          }
+        }
+      }
+    },
+    "想你啦，过来戳戳你~": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thinking of you, poked you!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "気になって、ちょっとつついてみたよ〜"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보고 싶어서 콕 찔러봐요~"
+          }
+        }
+      }
+    },
+    "捏了捏你": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pinched you"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ギュッとつまんでみたよ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "살짝 꼬집었어요"
+          }
+        }
+      }
+    },
+    "揉揉捏捏，给你能量！": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pinch and knead, sending you energy!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "もみもみ、元気をあげる！"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "조물조물, 에너지 충전!"
+          }
+        }
+      }
+    },
+    "拍了拍你": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tapped you"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "肩をたたいてみたよ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "톡톡 두드렸어요"
+          }
+        }
+      }
+    },
+    "在忙什么呢？找你啦": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What are you up to? Calling you!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "何してるの？呼んでみたよ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "뭐 하고 있어? 나 여기 있어"
+          }
+        }
+      }
+    },
+    "提醒你一下": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reminded you"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リマインドしたよ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 보냈어요"
+          }
+        }
+      }
+    },
+    "注意看消息哦！": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check your messages!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メッセージをチェックしてね！"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메시지 확인해 봐요!"
+          }
+        }
+      }
+    },
+    "困到模糊": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sleepy"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "眠くてフラフラ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "졸려 죽겠음"
+          }
+        }
+      }
+    },
+    "咖啡续命中": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Need Coffee"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コーヒーで延命"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "카페인 수혈 중"
+          }
+        }
+      }
+    },
+    "疯狂加班中": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working Late"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "残業中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "야근 버닝 중"
+          }
+        }
+      }
+    },
+    "能量满满": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full Energy"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "エネルギー満タン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "에너지 뿜뿜"
+          }
+        }
+      }
+    },
+    "沉浸游戏中": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gaming"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゲームに没頭中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "게임에 몰입 중"
+          }
+        }
+      }
+    },
+    "运动健身中": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working Out"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "筋トレ中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "운동하는 중"
+          }
+        }
+      }
+    },
+    "享受美食中": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eating Good"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "グルメ堪能中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "맛있는 거 먹는 중"
+          }
+        }
+      }
+    },
+    "快乐休假中": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On Vacation"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "休暇を満喫中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "행복한 휴가 중"
+          }
+        }
+      }
+    },
+    "无聊度": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boredom Index"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退屈度"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지루함 지수"
+          }
+        }
+      }
+    },
+    "突然抖动！成功捕捉到一个正在走神的小可爱。": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sudden vibration! Caught a daydreaming cutie."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "突然の振動！ぼーっとしているところをキャッチ。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "깜짝 진동! 방금 멍때리고 있던 귀요미를 포착했어요."
+          }
+        }
+      }
+    },
+    "走哪啦？": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "走哪啦"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where Are You?"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "どこにいる？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "어디야?"
           }
         }
       }
